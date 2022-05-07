@@ -1,0 +1,1 @@
+trv.bind('<Double 1>',getrow)
